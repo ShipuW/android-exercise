@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <item type="integer" name="s1" format="integer">1</item><item type="integer" name="s2" format="integer">2</item><item type="integer" name="s3" format="integer">3</item><item type="integer" name="s4" format="integer">4</item><item type="integer" name="s5" format="integer">5</item><item type="integer" name="s6" format="integer">6</item><item type="integer" name="s7" format="integer">7</item><item type="integer" name="s8" format="integer">8</item><item type="integer" name="s9" format="integer">9</item><item type="integer" name="s0" format="integer">0</item><item type="integer" name="default_text" format="integer">0</item>
+    <string name="sStart">Start</string>
+    <string name="sStop">Stop</string>
+    <string name="sClear">Clear</string>
+
+</resources>

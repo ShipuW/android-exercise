@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">点击按钮显示</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="s_110">110</string>
+    <string name="s_112">112</string>
+    <string name="s_119">119</string>
+
+</resources>
